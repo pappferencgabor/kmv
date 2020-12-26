@@ -39,7 +39,7 @@ a:hover {
     text-decoration: underline;
 }
 p {
-    padding-left: 250px;
-    padding-right: 250px;
     line-height: 25px;
+    width: 75%;
+    margin: auto;
 }
