@@ -22,14 +22,15 @@ body {
 }
 .kep h1 {
     color: white;
-    margin: 0;
-    font-size: 3.75em;
+    margin: auto;
+    font-size: 2.5em;
     font-family: 'Goldman', cursive;
     text-align: center;
     padding: 15px;
 }
 .kep img {
     width: 100%;
+    height: 50%;
     padding-bottom: 30px;
 }
 /*
