@@ -1,0 +1,84 @@
+body {
+    margin: 0px;
+    background-color: wheat;
+    background-image: url("albumhatter4-2.jpg");
+    background-repeat: repeat-y;
+    width: 100%;
+}
+/*.lemezek {
+    width: 75%;
+    margin: auto;
+    padding-bottom: 25px;
+}*/
+.lemezek1 {
+    width: 35%;
+    margin: auto;
+    padding-bottom: 25px;
+}
+.lemezek2 {
+    width: 35%;
+    margin: auto;
+    padding-bottom: 25px;
+}
+.lemezek3 {
+    width: 35%;
+    margin: auto;
+    padding-bottom: 25px;
+}
+.albumkep {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+th {
+    height: 0.75cm;
+    color: white;
+}
+.lem {
+    border: 1.5px solid gray;
+    background-color: gray;
+}
+td {
+    text-align: center;
+    width: 30%;
+    height: 0.75cm;
+    border: 1.5px solid gray;
+}
+img {
+    width: 300px;
+}
+li {
+    list-style-type: none;
+    width: 300px;
+    line-height: 25px;
+    text-align: center;
+    margin: auto;
+}
+a {
+    color: lightblue;
+    text-decoration: none;
+}
+a:hover {
+    color: lightskyblue;
+    text-decoration: underline;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.vissza {
+    height: 50px;
+    width: 100px;
+    border: 1px solid white;
+    background-color: gray;
+}
+.vissza:hover {
+    background-color: lightgray;
+}
+{
+    background-image: url("albumhatter2.jpg");
+    height: 135vh;
+    width: 174.5vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
