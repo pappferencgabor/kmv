@@ -4,17 +4,14 @@ body {
     background-image: url('albumhatter4-2.jpg');
 }
 table {
-    padding: 2cm;
     border: 2px solid rgba(241, 231, 231);
-    width: 90%;
+    width: 95%;
     margin: auto;
     color: rgba(241, 231, 231);
 }
-img {}
-
 hr {
     color: whitesmoke;
-    width: 85%;
+    width: 75%;
 }
 .kezdooldalra {
     text-align: center;
@@ -35,9 +32,8 @@ a:hover {
 }
 p {
     line-height: 25px;
-    width: 75%;
+    width: 65%;
     margin: auto;
-    font-family: ;
 }
 .cim {
     padding-top: 5px;

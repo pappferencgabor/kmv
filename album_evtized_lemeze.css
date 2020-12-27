@@ -4,6 +4,7 @@ body {
     background-image: url("albumhatter4-2.jpg");
     background-repeat: repeat;
     width: 100%;
+    padding-top: 10px;
 }
 table {
     width: 15%;

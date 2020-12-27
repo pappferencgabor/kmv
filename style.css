@@ -3,6 +3,7 @@
 body {
     margin: 0;
     background-color: rgb(41, 41, 41);
+    padding-top: 10px;
 }
 /*.hero {
     width: 100%;
@@ -15,6 +16,7 @@ body {
     width: 100%;
     overflow-x: auto;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 .table img {
     width: 250px;
@@ -32,6 +34,7 @@ body {
 .kep img {
     width: 100%;
     height: 50%;
+    padding-top: 30px;
     padding-bottom: 30px;
 }
 /*
@@ -82,7 +85,7 @@ table tr td img:hover {
 h1 {
     color: white;
     margin: 0;
-    font-size: 2.5em;
+    font-size: 2em;
     font-family: 'Goldman', cursive;
     text-align: center;
     padding: 15px;
