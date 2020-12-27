@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
 
 body {
-    background-image: url("albumhatter4-2.jpg");
+    background-image: url('albumhatter4-2.jpg');
 }
 table {
     padding: 2cm;
@@ -10,10 +10,8 @@ table {
     margin: auto;
     color: rgba(241, 231, 231);
 }
-img {
-    width: 172,6px;
-    height: 320px;
-}
+img {}
+
 hr {
     color: whitesmoke;
     width: 85%;
@@ -39,9 +37,9 @@ p {
     line-height: 25px;
     width: 75%;
     margin: auto;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: ;
 }
-.nev {
+.cim {
     padding-top: 5px;
     padding-bottom: 15px;
 }

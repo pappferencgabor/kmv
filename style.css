@@ -27,6 +27,7 @@ body {
     font-family: 'Goldman', cursive;
     text-align: center;
     padding: 15px;
+    background-color: gray;
 }
 .kep img {
     width: 100%;
@@ -63,6 +64,7 @@ table tr td img:hover {
     text-align: center;
     margin: auto;
     border: 2px solid white;
+    background-color: gray;
 }
 .menu a {
     text-decoration: none;
@@ -80,10 +82,11 @@ table tr td img:hover {
 h1 {
     color: white;
     margin: 0;
-    font-size: 3em;
+    font-size: 2.5em;
     font-family: 'Goldman', cursive;
     text-align: center;
     padding: 15px;
+    background-color: gray;
 }
 
 /*li {
